@@ -1,2 +1,2 @@
-# BluetoothChatAppAndroid
-Make a simple chat application through bluetooth in Android
+# BluetoothChattingApplication
+A simple chat application through bluetooth in Android
